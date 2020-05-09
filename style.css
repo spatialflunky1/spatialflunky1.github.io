@@ -1,15 +1,16 @@
 a {
-  color:magenta
+  color:magenta;
 }
 
 p {
-  color:cyan
+  color:cyan;
 }
 
 h1 {
-  color:#00adff
+  color:#00adff;
 }
 
 body {
-  background-color:#00070ed4
+  background-color:#00070ed4;
+  font-family:Arial
 }
