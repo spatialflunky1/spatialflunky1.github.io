@@ -2,7 +2,8 @@ a {
   color:magenta
 }
 
-p {
+p,
+.size {
   color:cyan
 }
 
@@ -21,8 +22,4 @@ body {
 
 .OR {
   color:orange
-}
-
-.size {
-  color:cyan
 }
