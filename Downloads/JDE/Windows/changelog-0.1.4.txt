@@ -1,0 +1,12 @@
+New Features:
+
+• Got rid of window.py which somehow made the interface look nicer
+• Changed run button from the text "run", to a play button
+• Made interface darker
+• Made error boxes look nicer
+• Made unsaved file dialogs and stuff
+• added error on run when file isn't .py
+
+New Bugs:
+
+• Found out when using find & replace that if two things are replaced that it removes everything in between
