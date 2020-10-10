@@ -1,0 +1,8 @@
+New Features:
+
+• Added .pyw support
+• If ran from cmd or any command line tool, when a file isn't selected in the open dialog it prints "No File Selected"
+
+Bug Fixes:
+
+• Fixed error that made it think that no file was a python file
